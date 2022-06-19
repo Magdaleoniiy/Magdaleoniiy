@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Magdaleoniiy
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on education projects
